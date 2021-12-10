@@ -1,2 +1,2 @@
-float64 rpm
+float64 rps
 float64 rudder_angle_degree
