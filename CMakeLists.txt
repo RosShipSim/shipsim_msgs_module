@@ -28,6 +28,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/KTControl.msg"
   "msg/MMGControl.msg"
   "msg/PositionSensor.msg"
+  "msg/Disturbance.msg"
   DEPENDENCIES std_msgs action_msgs
 )
 
